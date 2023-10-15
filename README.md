@@ -1,7 +1,7 @@
 [![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)]
 
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">I like coding & building things. Right now i'm seeking things towards AI.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-switch&label=Profile%20views&color=0e75b6&style=flat" alt="code-switch" /> </p>
