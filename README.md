@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhishek Singh</h1>
 <h3 align="center">I like coding & building things. Right now i'm seeking things towards AI.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://o.aolcdn.com/images/dims?quality=100&image_uri=https:%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2F29ed120b66a5298e501a2acaf3952eb0%2F206451225%2Fdeadpool-2-ascii-gif.gif&client=amp-blogside-v2&signature=4058b662759c3c83a63f76918356c365a3548edf)">
+<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif]>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=code-switch&label=Profile%20views&color=0e75b6&style=flat" alt="code-switch" /> </p>
 
