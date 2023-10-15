@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Phishing URL detection](https://github.com/code-switch/phishing-url-detection)
 
-- 🌱 I’m currently learning **Computer Vision**
+- 🌱 I’m currently learning  **Computer Vision**
 
 - 👯 I’m looking to collaborate on [Phishing URL detection](https://github.com/code-switch/phishing-url-detection)
 
