@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on [Phishing URL detection](https://github.com/code-switch/phishing-url-detectio), [Text Summarization](https://github.com/code-switch/Text_summarization)
 
-- 🌱 I’m currently learning  **Computer Vision**
+- 🌱 I’m currently learning   **Computer Vision**
 
-- 👯 I’m looking to collaborate on [Phishing URL detection](https://github.com/code-switch/phishing-url-detectio), [Text Summarization](https://github.com/code-switch/Text_summarization)
+- 👯 I’m looking to collaborate on  **Computer Vision**
 
-- 🤝 I’m looking for help with [Phishing URL detection](https://github.com/code-switch/phishing-url-detectio), [Text Summarization](https://github.com/code-switch/Text_summarization)
+- 🤝 I’m looking for help with  **Computer Vision**
 
 - 💬 Ask me about **Stats, Python, Machine Learning, Deep Learning, MLOps & Data Science.**
 
