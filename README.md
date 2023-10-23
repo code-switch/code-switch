@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on [Phishing URL detection](https://github.com/code-switch/phishing-url-detectio), [Text Summarization](https://github.com/code-switch/Text_summarization)
 
-- 🤝 I’m looking for help with [[Phishing URL detection](https://github.com/code-switch/phishing-url-detectio), [Text Summarization](https://github.com/code-switch/Text_summarization)
+- 🤝 I’m looking for help with [Phishing URL detection](https://github.com/code-switch/phishing-url-detectio), [Text Summarization](https://github.com/code-switch/Text_summarization)
 
 - 💬 Ask me about **Stats, Python, Machine Learning, Deep Learning, MLOps & Data Science.**
 
