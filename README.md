@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-switch" alt="code-switch" /></a> </p>
 
-- 🔭 I’m currently working on [Phishing URL detection](https://github.com/code-switch/phishing-url-detectio),[Text Summarization](https://github.com/code-switch/Text_summarization)
+- 🔭 I’m currently working on [Phishing URL detection](https://github.com/code-switch/phishing-url-detectio), [Text Summarization](https://github.com/code-switch/Text_summarization)
 
 - 🌱 I’m currently learning  **Computer Vision**
 
-- 👯 I’m looking to collaborate on [Phishing URL detection](https://github.com/code-switch/phishing-url-detection)
+- 👯 I’m looking to collaborate on [Phishing URL detection](https://github.com/code-switch/phishing-url-detectio), [Text Summarization](https://github.com/code-switch/Text_summarization)
 
-- 🤝 I’m looking for help with [Phishing URL detection](https://github.com/code-switch/phishing-url-detection)
+- 🤝 I’m looking for help with [[Phishing URL detection](https://github.com/code-switch/phishing-url-detectio), [Text Summarization](https://github.com/code-switch/Text_summarization)
 
 - 💬 Ask me about **Stats, Python, Machine Learning, Deep Learning, MLOps & Data Science.**
 
